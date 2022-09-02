@@ -46,6 +46,7 @@ Conclusion 2 - The winter months of Nov, Dec and January had the lowest performa
 launched campaigns - 259 total across these months while 457 campaigns or 76.4% were launched across May, June and July.
 Outcomes based on Goals.
 
+
 Outcomes based on Goals:
 
 Conclusion - The most number of succesful theater campaigns were for ones which had funding goals below $15,000 (661 campaigns). For Louise's
