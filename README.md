@@ -62,3 +62,12 @@ meet goals in a given month.
 
 Additionally we can recommend the creation of a bar chart which provides the average amount of money received per campaign (Y axis), 
 in each month (X axis). This can help us get close to the month which provides the best rate of success at a budget of $10,000.
+
+
+
+email:  ehawkins0631@gmail.com
+
+twitter: @evahawkins0630
+
+https://www.linkedin.com/in/eva-hawkins-a9b333147/
+
