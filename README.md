@@ -83,7 +83,6 @@ in each month (X axis). This can help us get close to the month which provides t
 
 
 
-
 email:  ehawkins0631@gmail.com
 
 twitter: @evahawkins0630
