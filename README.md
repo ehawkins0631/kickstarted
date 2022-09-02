@@ -42,6 +42,7 @@ Theater Outcomes by Launch Date:
 Conclusion 1 - Campaigns under the Theater category which began during the summer months of May, June and July were much more successful 
 with May being the most successful month.
 
+
 Conclusion 2 - The winter months of Nov, Dec and January had the lowest performance in terms of successes along with very low volume of 
 launched campaigns - 259 total across these months while 457 campaigns or 76.4% were launched across May, June and July.
 Outcomes based on Goals.
