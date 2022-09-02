@@ -60,12 +60,16 @@ to hit her funding goals. This data set doesn't provide average amount of money 
 an important piece of information for Louis to understand which month brought in the most funds per campaign.
 
 Figure 1
+
 ![image](https://user-images.githubusercontent.com/101227930/188048487-fc927df6-d946-4b35-b00c-96fda78c3576.png)
 
 
 
 
+
+
 Figure 2
+
 ![image](https://user-images.githubusercontent.com/101227930/188048549-38c0e5c6-a569-4432-b943-506ee2a1605c.png)
 
 
