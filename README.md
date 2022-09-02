@@ -6,6 +6,7 @@ Kickstarter-Analysis
 Project Overview:
 
 
+
 Purpose:
 
 This analysis aims to provide insights and recommendations to Louise, to be able to certain when she should begin 
