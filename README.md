@@ -58,6 +58,14 @@ We are not clear of the average run time of each campaign which is an important 
 to hit her funding goals. This data set doesn't provide average amount of money received per campaign in each month as well, which can be
 an important piece of information for Louis to understand which month brought in the most funds per campaign.
 
+Figure 1
+![image](https://user-images.githubusercontent.com/101227930/188048487-fc927df6-d946-4b35-b00c-96fda78c3576.png)
+
+
+Figure 2
+![image](https://user-images.githubusercontent.com/101227930/188048549-38c0e5c6-a569-4432-b943-506ee2a1605c.png)
+
+
 Recommendations:
 
 Recommend creating a new column in the Kickstarter data set which provides the total run time of each campaign in terms of days. This can
@@ -67,6 +75,7 @@ meet goals in a given month.
 
 Additionally we can recommend the creation of a bar chart which provides the average amount of money received per campaign (Y axis), 
 in each month (X axis). This can help us get close to the month which provides the best rate of success at a budget of $10,000.
+
 
 
 
